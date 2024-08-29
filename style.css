@@ -8,6 +8,7 @@
     background-color: #0F1111;
     color: white;
     display: flex;
+    align-items: center;
 }
 .logo{
     background-image: url("amazon_logo.png");
@@ -29,7 +30,9 @@
 }
 .add-icon{
     display: flex;
+    align-items: center;
 }
 .add-second{
     margin-left: 3px;
 }
+
