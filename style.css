@@ -42,4 +42,7 @@
     height: 40px;
     border-radius: 4px;
 }
-
+.select-search{
+    border-radius: 4px;
+    background-color: #f3f3f3;
+}
